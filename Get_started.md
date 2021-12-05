@@ -20,7 +20,7 @@ output:
 
 
 # Preamble 
-<style="color:red">R<> is a powerful statistical programming language that is built to work well with large and diverse datasets.   
+R is a powerful statistical programming language that is built to work well with large and diverse datasets.   
 This notes aims at giving readers a routemap to get started with programming language R and its IDE (Integrated Development Environment) RStudio. We are going to look at how to download, install and understand the basic components of R and RStudio.
  
  
