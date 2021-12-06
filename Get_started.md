@@ -71,7 +71,7 @@ RStudio web page URL is https://www.rstudio.com/products/rstudio/
 **based on OS choose the file to download**
 
 
-![ ](Version2.PNG)
+![ ](Version2.png)
 
 **Installing**
 
@@ -80,12 +80,12 @@ RStudio web page URL is https://www.rstudio.com/products/rstudio/
 ### Components of RStudio   
 RStudio is divided into 4 Panes
 
-![ ](Components.PNG)
+![ ](Components.png)
 
 Description of these components
 
 
-![ ](Co.D.PNG)
+![ ](Co.D.png)
 
 ### Menu bar
 Menu bar consists of various actions which can be performed, Let us see some of most used options
@@ -93,34 +93,34 @@ Menu bar consists of various actions which can be performed, Let us see some of 
    1)File
    used to create various Documents such as R Script, R Markdown, R Shiny etc
    
-![](File.PNG)
+![](File.png)
    
    2)Edit
    Consists of various editing options
 
 
-![](edit.PNG)
+![](edit.png)
 
    3)View
    Used to customise look and feel
 
 
-![](View.PNG)  
+![](View.png)  
    
    4)Tools    
    Tools provide various useful options of tasks which can be performed.   
 
-![](tools.PNG)  
+![](tools.png)  
    
    Global options is an important tool which we will be interested in, we can change theme, default settings like saving workspace image(history of commands performed ) etc can be changed 
    
 
-![](global_op.PNG) 
+![](global_op.png) 
 
 ### Console Pane (Bottom Left)
 Console is the place where R codes are executed 
 
-![](console.PNG)
+![](console.png)
 
 
 ### Environment and History (Top Right)
@@ -128,46 +128,46 @@ Console is the place where R codes are executed
 The values and data we load in R is stored in Environment
 
  
-![](Environment.PNG)
+![](Environment.png)
 
 We can see previously executed commands using history section
  
-![](history.PNG)
+![](history.png)
 **Importing dataset**
 
  
-![](Screenshot (316).PNG)
+![](Screenshot (316).png)
 **Importing an Excel file**
 
 
-![](Screenshot (317).PNG)
+![](Screenshot (317).png)
 
 ### Help and Packages (Bottom Right) 
 
 **Help** Section is used to know more about function, dataset, package
 
-![](Screenshot (309).PNG)
+![](Screenshot (309).png)
 
 **Package** section aids us in accessing packages in R (To know more about packages please refer http://rpubs.com/Thinklabz/Intro_to_R_packages )
 
 
-![](Screenshot (310).PNG)
+![](Screenshot (310).png)
 
 To install a package using RStudio we can search the package's name here
 
 
-![](Screenshot (311).PNG)
+![](Screenshot (311).png)
 
 
 
-![](Screenshot (312).PNG)
+![](Screenshot (312).png)
  
-![](Screenshot (313).PNG)
+![](Screenshot (313).png)
  
-![](Screenshot (314).PNG)
+![](Screenshot (314).png)
 **Loading package**
 
-![](Screenshot (315).PNG)
+![](Screenshot (315).png)
 
 
 ### Source (Top Left)
@@ -175,7 +175,7 @@ Source is the place where we have various files which we can work with R. We can
 **Using R Script for writing code**
 
 
-![](Screenshot (319).PNG)
+![](Screenshot (319).png)
 
 # Final Note
 This notes has given an introduction to R and RStudio. Feel free to reach out for queries.
