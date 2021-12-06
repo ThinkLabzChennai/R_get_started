@@ -136,38 +136,42 @@ We can see previously executed commands using history section
 **Importing dataset**
 
  
-![](Screenshot (316).png)
+![](Excel_i.png)
 **Importing an Excel file**
 
 
-![](Screenshot (317).png)
+![](Excel_i2.png)
+
+Using code
+![](excel2.png)
+
 
 ### Help and Packages (Bottom Right) 
 
 **Help** Section is used to know more about function, dataset, package
 
-![](Screenshot (309).png)
+![](help.png)
 
 **Package** section aids us in accessing packages in R (To know more about packages please refer http://rpubs.com/Thinklabz/Intro_to_R_packages )
 
 
-![](Screenshot (310).png)
+![](Install1.png)
 
 To install a package using RStudio we can search the package's name here
 
 
-![](Screenshot (311).png)
+![](search.png)
 
 
 
-![](Screenshot (312).png)
+![](p_install.png)
  
-![](Screenshot (313).png)
+![](p_down.png)
  
-![](Screenshot (314).png)
+![](p_view.png)
 **Loading package**
 
-![](Screenshot (315).png)
+![](load_p.png)
 
 
 ### Source (Top Left)
@@ -175,7 +179,7 @@ Source is the place where we have various files which we can work with R. We can
 **Using R Script for writing code**
 
 
-![](Screenshot (319).png)
+![](script.png)
 
 # Final Note
 This notes has given an introduction to R and RStudio. Feel free to reach out for queries.
