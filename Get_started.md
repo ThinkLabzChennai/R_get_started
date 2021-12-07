@@ -16,7 +16,7 @@ output:
 
 
 
-![ Get inspired ](journey.jpg)
+![ Get inspired](C:/Users/Sathya/Documents/R/Project/Install R/Pictures/journey.jpg)
 
 
 # Preamble 
@@ -29,7 +29,7 @@ R software can be downloaded from website  https://cran.r-project.org/
    
 The website looks like this. 
 
-![ **Cran website** ](cran_R.png)
+![ **Cran website**](C:/Users/Sathya/Documents/R/Project/Install R/Pictures/cran_R.png)
 
  
    
@@ -37,22 +37,22 @@ From this we can  choose the option whether we wish to download for Windows or M
 
 *The following page is for Windows*
 
- ![ **Windows** ](Windows.png)
+ ![ **Windows**](C:/Users/Sathya/Documents/R/Project/Install R/Pictures/Windows.png)
    
    
 *The following page is for Mac* 
 
- ![ **mac** ](mac.png)
+ ![ **mac** ](C:/Users/Sathya/Documents/R/Project/Install R/Pictures/mac.png)
     
         
 *The following page is for Linux*  
 
- ![ **LINUX** ](lin.png)
+ ![ **LINUX** ](C:/Users/Sathya/Documents/R/Project/Install R/Pictures/lin.png)
     
     
 Once downloaded R can be installed by clicking the file which is downloaded and by following the instructions. After installing the Software we can see the welcome page as shown below
 
-![ **WELCOME** ](R_Welcome.png)
+![ **WELCOME** ](C:/Users/Sathya/Documents/R/Project/Install R/Pictures/R_Welcome.png)
     
 Since we have done installing R we can move forward with RStudio
 
@@ -61,31 +61,31 @@ Since we have done installing R we can move forward with RStudio
 RStudio web page URL is https://www.rstudio.com/products/rstudio/ 
 
 
-![ ](RST_DOWN.png)
+![ ](C:/Users/Sathya/Documents/R/Project/Install R/Pictures/RST_DOWN.png)
 
 **Version available**
 
 
-![ ](Version1.png)  
+![ ](C:/Users/Sathya/Documents/R/Project/Install R/Pictures/Version1.png)  
 
 **based on OS choose the file to download**
 
 
-![ ](Version2.png)
+![ ](C:/Users/Sathya/Documents/R/Project/Install R/Pictures/Version2.png)
 
 **Installing**
 
-![ ](Install.png)
+![ ](C:/Users/Sathya/Documents/R/Project/Install R/Pictures/Install.png)
 
 ### Components of RStudio   
 RStudio is divided into 4 Panes
 
-![ ](Components.png)
+![ ](C:/Users/Sathya/Documents/R/Project/Install R/Pictures/Components.png)
 
 Description of these components
 
 
-![ ](Co.D.png)
+![ ](C:/Users/Sathya/Documents/R/Project/Install R/Pictures/Co.D.png)
 
 ### Menu bar
 Menu bar consists of various actions which can be performed, Let us see some of most used options
@@ -93,34 +93,34 @@ Menu bar consists of various actions which can be performed, Let us see some of 
    1)File
    used to create various Documents such as R Script, R Markdown, R Shiny etc
    
-![](File.png)
+![](C:/Users/Sathya/Documents/R/Project/Install R/Pictures/File.png)
    
    2)Edit
    Consists of various editing options
 
 
-![](edit.png)
+![](C:/Users/Sathya/Documents/R/Project/Install R/Pictures/edit.png)
 
    3)View
    Used to customise look and feel
 
 
-![](View.png)  
+![](C:/Users/Sathya/Documents/R/Project/Install R/Pictures/View.png)  
    
    4)Tools    
    Tools provide various useful options of tasks which can be performed.   
 
-![](tools.png)  
+![](C:/Users/Sathya/Documents/R/Project/Install R/Pictures/tools.png)  
    
    Global options is an important tool which we will be interested in, we can change theme, default settings like saving workspace image(history of commands performed ) etc can be changed 
    
 
-![](global_op.png) 
+![](C:/Users/Sathya/Documents/R/Project/Install R/Pictures/global_op.png) 
 
 ### Console Pane (Bottom Left)
 Console is the place where R codes are executed 
 
-![](console.png)
+![](C:/Users/Sathya/Documents/R/Project/Install R/Pictures/console.png)
 
 
 ### Environment and History (Top Right)
@@ -128,50 +128,50 @@ Console is the place where R codes are executed
 The values and data we load in R is stored in Environment
 
  
-![](Environment.png)
+![](C:/Users/Sathya/Documents/R/Project/Install R/Pictures/Environment.png)
 
 We can see previously executed commands using history section
  
-![](history.png)
+![](C:/Users/Sathya/Documents/R/Project/Install R/Pictures/history.png)
 **Importing dataset**
 
  
-![](Excel_i.png)
+![](C:/Users/Sathya/Documents/R/Project/Install R/Pictures/Excel_i.png)
 **Importing an Excel file**
 
 
-![](Excel_i2.png)
+![](C:/Users/Sathya/Documents/R/Project/Install R/Pictures/Excel_i2.png)
 
 Using code
-![](excel2.png)
+![](C:/Users/Sathya/Documents/R/Project/Install R/Pictures/excel2.png)
 
 
 ### Help and Packages (Bottom Right) 
 
 **Help** Section is used to know more about function, dataset, package
 
-![](help.png)
+![](C:/Users/Sathya/Documents/R/Project/Install R/Pictures/help.png)
 
 **Package** section aids us in accessing packages in R (To know more about packages please refer http://rpubs.com/Thinklabz/Intro_to_R_packages )
 
 
-![](Install1.png)
+![](C:/Users/Sathya/Documents/R/Project/Install R/Pictures/Install1.png)
 
 To install a package using RStudio we can search the package's name here
 
 
-![](search.png)
+![](C:/Users/Sathya/Documents/R/Project/Install R/Pictures/search.png)
 
 
 
-![](p_install.png)
+![](C:/Users/Sathya/Documents/R/Project/Install R/Pictures/p_install.png)
  
-![](p_down.png)
+![](C:/Users/Sathya/Documents/R/Project/Install R/Pictures/p_down.png)
  
-![](p_view.png)
+![](C:/Users/Sathya/Documents/R/Project/Install R/Pictures/p_view.png)
 **Loading package**
 
-![](load_p.png)
+![](C:/Users/Sathya/Documents/R/Project/Install R/Pictures/load_p.png)
 
 
 ### Source (Top Left)
@@ -179,7 +179,7 @@ Source is the place where we have various files which we can work with R. We can
 **Using R Script for writing code**
 
 
-![](script.png)
+![](C:/Users/Sathya/Documents/R/Project/Install R/Pictures/script.png)
 
 # Final Note
 This notes has given an introduction to R and RStudio. Feel free to reach out for queries.
