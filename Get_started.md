@@ -16,7 +16,7 @@ output:
 
 
 
-![ Get inspired](C:/Users/Sathya/Documents/R/Project/Install R/Pictures/journey.jpg)
+![ Get inspired](https://github.com/ThinkLabzChennai/R_get_started/tree/main/Pictures/journey.jpg)
 
 
 # Preamble 
