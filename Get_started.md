@@ -16,7 +16,7 @@ output:
 
 
 
-![ Get inspired](journey.jpg)
+![ Get inspired](https://user-images.githubusercontent.com/92445009/145365296-540f23e2-4344-4e46-9e82-ace0532325c2.jpg)
 
 
 # Preamble 
